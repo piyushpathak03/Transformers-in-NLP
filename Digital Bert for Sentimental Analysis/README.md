@@ -1,4 +1,4 @@
-# DigitalBert from Huggingfacetransformer
+# DistilBert from Huggingfacetransformer
 
 ## About me
 
